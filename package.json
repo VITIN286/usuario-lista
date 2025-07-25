@@ -1,0 +1,24 @@
+{
+  "name": "usuario-lista",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VITIN286/usuario-lista.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VITIN286/usuario-lista/issues"
+  },
+  "homepage": "https://github.com/VITIN286/usuario-lista#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.4.4",
+    "react-dom": "^19.1.0"
+  }
+}
